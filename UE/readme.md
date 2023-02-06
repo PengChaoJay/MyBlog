@@ -1,5 +1,5 @@
 直接贴代码：
-``` C++
+```C++
 //.h文件
 // Fill out your copyright notice in the Description page of Project Settings.
 
@@ -59,7 +59,8 @@ public:
 };
 ```
 根据需要自行删减，需要特别注意的是头文件，包无法识别类类型的时候看一下头文件引入对不对
-``` C++
+
+```C++
 //.cpp文件
 
 // Fill out your copyright notice in the Description page of Project Settings.
